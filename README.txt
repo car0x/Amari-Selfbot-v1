@@ -1,5 +1,5 @@
 # Amari-Selfbot
-If you need to promote your server/socials, I recommend using amari. It has a built-in MassDM
+If you need to promote your server/socials, I recommend using amari. It has a built-in Mass DM
 
 # Noteable Features
 - auto-bump (helps u promote ur server ez)
