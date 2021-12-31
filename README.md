@@ -1,1 +1,0 @@
-# Amari-Selfbot-v1
